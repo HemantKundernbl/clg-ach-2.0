@@ -5,6 +5,7 @@ export default {
     extend: {
       colors: {
         "site-theme": "#6e263a",
+        "review-color": "#eaffea",
       },
     },
   },
